@@ -188,7 +188,7 @@ int WINAPI WinMain(HINSTANCE hInstance,
     /* enable OpenGL for the window */
     EnableOpenGL(hwnd, &hDC, &hRC);
 
-    glEnable(GL_DEPTH_TEST); /*òåñò ãëóáèíû*/
+    glEnable(GL_DEPTH_TEST);
 
 
 

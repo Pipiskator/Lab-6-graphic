@@ -51,3 +51,17 @@
 	"camera.h"
 	<cmath>
 
+1716713859 source:d:\Раб стол\lab-6-graphic\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1716031475 d:\Раб стол\lab-6-graphic\camera.h
+
+1716721222 source:d:\Раб стол\lab-6-graphic\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<cmath>
+
